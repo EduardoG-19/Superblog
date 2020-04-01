@@ -1,0 +1,6 @@
+Hola soy Eduardo Garrido
+Este es mi prueba 2 del programa git 
+Espero seguir aprendiendo mas sobre este tema 
+poder seguir con el curso
+
+En eta prueba vamos a reforzar los conocimientos de git
