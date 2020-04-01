@@ -2,5 +2,6 @@ Hola soy Eduardo Garrido
 Este es mi prueba 2 del programa git 
 Espero seguir aprendiendo mas sobre este tema 
 poder seguir con el curso y que sea un mejor aprendiendo
+Hoy es la segunda pruebba
 Aprediendo mejor y mas del programa 
 En eta prueba vamos a reforzar los conocimientos de git
