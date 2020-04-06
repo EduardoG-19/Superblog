@@ -37,3 +37,8 @@ body
 {
     font-size: 28px;
 }
+
+#post
+{
+    padding: 1em;
+}
